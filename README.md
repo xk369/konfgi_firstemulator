@@ -1,4 +1,4 @@
-Вариант №13
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/d6de10ec-bc2e-49e4-9b2b-e51e29501271">Вариант №13
 
 Задание №1
 
@@ -22,6 +22,11 @@ tar. Эмулятор должен работать в режиме CLI.
 
 <img width="857" alt="image" src="https://github.com/user-attachments/assets/c99c4c0b-0ffa-4dec-9795-2b139f13c328">
 
+
+## команда запуска теста
+'''
+python3 -m unittest discover -v tests
+'''
 
 <img width="857" alt="image" src="https://github.com/user-attachments/assets/6188c417-0d1f-43ec-84d9-3ab743871d54">
 
