@@ -24,9 +24,9 @@ tar. Эмулятор должен работать в режиме CLI.
 
 
 ## команда запуска теста
-'''
+```
 python3 -m unittest discover -v tests
-'''
+```
 
 <img width="857" alt="image" src="https://github.com/user-attachments/assets/6188c417-0d1f-43ec-84d9-3ab743871d54">
 
