@@ -1,4 +1,4 @@
-<img width="857" alt="image" src="https://github.com/user-attachments/assets/d6de10ec-bc2e-49e4-9b2b-e51e29501271">Вариант №13
+
 
 Задание №1
 
